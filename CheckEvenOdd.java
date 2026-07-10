@@ -1,4 +1,4 @@
-public class EvenOdd {
+public ClasSEvenOdd {
     public static void main(String[] args) {
         int num = 15;
 
