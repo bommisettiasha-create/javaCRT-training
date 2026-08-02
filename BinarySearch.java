@@ -7,7 +7,7 @@ class Main{
 for(int i = 0; i < n; i++) 
 arr[i] = sc.nextInt(); 
 int key = sc.nextInt();
- int low = 0, high = n- 1; 
+ int low = 0, high = n - 1; 
 boolean found = false;
  while(low <= high){
  int mid = (low + high) / 2;
