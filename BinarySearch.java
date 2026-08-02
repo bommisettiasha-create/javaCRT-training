@@ -15,7 +15,7 @@ boolean found = false;
  found = true; break;
  } 
 else if(arr[mid] < key) low = mid + 1;
- else high = mid- 1;
+ else high = mid - 1;
  }
  System.out.println(found ? "Found" : "Not Found");
  }
